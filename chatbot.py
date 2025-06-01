@@ -47,7 +47,7 @@ predicted_mgmt = clf.predict(input_data)[0]
 
 # Interpret results
 stress_category = 'High' if predicted_stress >= 6 else 'Low'
-time_management = 'Good' if predicted_mgmt >=5 else 'Poor'
+time_management = 'Good' if predicted_mgmt >=1 else 'Poor'
 
 # Final response
 print("\nBot: Based on your inputs...")
