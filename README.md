@@ -1,6 +1,6 @@
 # SMART-PREDICT
 
-README: SMART PREDICT: A Student Mental Health Analysis Power BI dashboard along with a Student Wellness Chatbot📊
+README: SMART PREDICT: A Student Mental Health Analysis Power BI dashboard and a Student Wellness Chatbot📊
 
 📁 Project Overview:
 This Power BI dashboard explores the mental health patterns of students, analyzing stress, sleep, screen time, study hours, and emotional support. It’s designed to find meaningful insights from student behavior and habits that affect well-being and academic life.
