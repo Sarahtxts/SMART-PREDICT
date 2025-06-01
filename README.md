@@ -6,7 +6,6 @@ This Power BI dashboard explores the mental health patterns of students, analyzi
 
 
 📦 Data Source:
-
 📋 File: Google Form responses (CSV)
 🧪 Total Rows: 40
 📊 Columns: 20 fields including study year, sleep hours, screen time, stress levels, time management, emotional support, etc.
