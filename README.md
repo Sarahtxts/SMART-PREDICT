@@ -5,6 +5,12 @@ README: SMART PREDICT: A Student Mental Health Analysis dashboard made using Pow
 📁 Project Overview:
 This Power BI dashboard explores the mental health patterns of students, analyzing stress, sleep, screen time, study hours, and emotional support. It’s designed to find meaningful insights from student behavior and habits that affect well-being and academic life.
 
+🤖 Meet StudentWellnessBot!
+StudentWellnessBot is your AI-powered buddy that checks in on:
+🔮 Stress Prediction – Estimates stress levels based on lifestyle patterns
+🧠 Stress Classification – Labels users as High Stress or Low Stress
+⏱️ Time Management Classification – Labels users as Good or Poor in managing time
+
 📦 Data Source:
 📋 File: Google Form responses (CSV)
 🧪 Total Rows: 40
