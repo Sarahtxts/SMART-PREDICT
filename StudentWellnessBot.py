@@ -25,7 +25,7 @@ y_time_mgmt = df['time_management'].map({'Poor': 0, 'Good': 1})
 clf = RandomForestClassifier()
 clf.fit(X, y_time_mgmt)
 
-# 🌟 Interactive Chatbot Begins
+# chatbot
 print("Bot: Hey! I'm your wellness buddy. Let's check how you're doing. 😊")
 
 sleep_hours = float(input("Bot: How many hours do you sleep on average?\nUser: "))
@@ -33,7 +33,6 @@ screen_time = float(input("Bot: And how much time do you spend on screens daily 
 study_hours = float(input("Bot: Cool! How many hours do you study daily?\nUser: "))
 exercise_minutes = float(input("Bot: Do you exercise? If yes, how many minutes a day?\nUser: "))
 
-# Prepare input for prediction
 input_data = pd.DataFrame([{
     'sleep_hours': sleep_hours,
     'screen_time': screen_time,
